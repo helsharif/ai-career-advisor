@@ -1,0 +1,5 @@
+Hi, I’m Husayn. I’m a Senior Data Scientist and Georgia Tech Ph.D. with over eight years of experience working with machine learning, geospatial analytics, and complex real world data. I enjoy taking messy information and turning it into insights that help people make better decisions.
+
+My work spans remote sensing, environmental analytics, and applied AI, backed by models, pipelines, and dashboards I’ve built for researchers, engineers, and operational teams. I also mentor students and early career professionals who are developing their skills in data science and programming.
+
+Grounded in civil engineering and hydrology, I bring a practical way of understanding complex systems, and that foundation still shapes how I approach data and problem solving. I now apply these skills across a wider range of fields where careful analysis can support meaningful, evidence based improvements in science, technology, and public health.
